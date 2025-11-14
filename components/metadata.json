@@ -1,0 +1,5 @@
+{
+  "name": "Jabed Agro Smart Gate Returnabe Good Register Management",
+  "description": "An advanced gate pass and stock management system for Jabed Agro. It ensures accurate tracking of all goods that exit or return, providing real-time visibility into item location, movement history, and stock levels.",
+  "requestFramePermissions": []
+}
